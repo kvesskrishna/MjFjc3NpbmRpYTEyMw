@@ -1,0 +1,12 @@
+[21-Apr-2016 07:36:30 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/a21csabs/public_html/trainings/application/controllers/Courses.php on line 31
+[21-Apr-2016 07:37:31 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/a21csabs/public_html/trainings/application/controllers/Courses.php on line 31
+[22-Apr-2016 09:41:44 Etc/GMT] PHP Fatal error:  Out of memory (allocated 2359296) (tried to allocate 3072 bytes) in /home/a21csabs/public_html/trainings/system/database/drivers/mysqli/mysqli_result.php on line 181
+[22-Apr-2016 11:11:21 Etc/GMT] PHP Fatal error:  Out of memory (allocated 1835008) (tried to allocate 1280 bytes) in /home/a21csabs/public_html/trainings/system/database/DB_query_builder.php on line 2479
+[23-Apr-2016 09:41:38 Etc/GMT] PHP Fatal error:  Out of memory (allocated 2359296) (tried to allocate 3072 bytes) in /home/a21csabs/public_html/trainings/system/database/drivers/mysqli/mysqli_result.php on line 86
+[25-Apr-2016 04:22:22 Etc/GMT] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 4480 bytes) in /home/a21csabs/public_html/trainings/system/core/Input.php on line 542
+[25-Apr-2016 05:29:49 Etc/GMT] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 4480 bytes) in /home/a21csabs/public_html/trainings/system/core/Input.php on line 542
+[25-Apr-2016 12:50:43 Etc/GMT] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 72 bytes) in /home/a21csabs/public_html/trainings/system/database/DB_driver.php on line 371
+[02-May-2016 07:08:56 Etc/GMT] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 12288 bytes) in /home/a21csabs/public_html/trainings/system/helpers/url_helper.php on line 229
+[02-May-2016 09:56:34 Etc/GMT] PHP Fatal error:  Out of memory (allocated 1835008) (tried to allocate 12288 bytes) in /home/a21csabs/public_html/trainings/system/database/DB_query_builder.php on line 2327
+[02-May-2016 12:06:24 Etc/GMT] PHP Fatal error:  Out of memory (allocated 1572864) (tried to allocate 49152 bytes) in /home/a21csabs/public_html/trainings/system/database/DB_driver.php on line 1960
+[04-May-2016 13:03:13 Etc/GMT] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 12288 bytes) in /home/a21csabs/public_html/trainings/system/helpers/url_helper.php on line 229

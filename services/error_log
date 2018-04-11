@@ -1,0 +1,133 @@
+[24-Nov-2017 10:43:23 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[24-Nov-2017 10:43:23 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[27-Nov-2017 13:28:50 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[27-Nov-2017 13:28:50 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[01-Dec-2017 06:19:45 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[01-Dec-2017 06:19:45 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[06-Dec-2017 20:50:42 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[06-Dec-2017 20:50:42 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[12-Dec-2017 03:31:18 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[12-Dec-2017 03:31:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[14-Dec-2017 21:44:02 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[14-Dec-2017 21:44:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[15-Dec-2017 14:27:40 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[15-Dec-2017 14:27:40 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[17-Dec-2017 10:09:26 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[17-Dec-2017 10:09:26 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[28-Dec-2017 09:07:36 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[28-Dec-2017 09:07:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[29-Dec-2017 16:47:17 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[29-Dec-2017 16:47:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[30-Dec-2017 17:46:12 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[30-Dec-2017 17:46:12 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[30-Dec-2017 19:38:58 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[30-Dec-2017 19:38:58 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[30-Dec-2017 19:38:58 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[30-Dec-2017 19:38:58 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[31-Dec-2017 20:34:09 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[31-Dec-2017 20:34:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[21-Jan-2018 12:53:13 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[21-Jan-2018 12:53:13 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[20-Feb-2018 09:44:27 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[20-Feb-2018 09:44:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[28-Feb-2018 12:00:02 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[28-Feb-2018 12:00:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[21-Mar-2018 07:45:34 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[21-Mar-2018 07:45:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115
+[21-Mar-2018 07:46:08 Etc/GMT] PHP Warning:  mysqli_real_connect(): (42000/1044): Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices' in /home/a21csabs/public_html/services/api.php on line 113
+[21-Mar-2018 07:46:08 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect failed. Access denied for user 'a21csabs_webserv'@'localhost' to database 'a21csabs_webservices'' in /home/a21csabs/public_html/services/api.php:115
+Stack trace:
+#0 /home/a21csabs/public_html/services/api.php(1333): MySQL->connect('localhost', 'a21csabs_webser...', '21csswebservice...', 'a21csabs_webser...', NULL, NULL, 'utf8')
+#1 /home/a21csabs/public_html/services/api.php(1823): PHP_CRUD_API->__construct(Array)
+#2 {main}
+  thrown in /home/a21csabs/public_html/services/api.php on line 115

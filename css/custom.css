@@ -1,0 +1,14 @@
+/* Add here all your CSS customizations */
+#service-strategy .col-md-6{
+	height: 80px;
+}
+#service-impserv .col-md-4{
+	height: 80px;
+}
+.offset:before {
+    display: block;
+    content: " ";
+    height: 150px;
+    margin-top: -150px;
+    visibility: hidden;
+}

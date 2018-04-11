@@ -1,0 +1,4 @@
+[11-Nov-2017 01:52:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/a21csabs/public_html/tests/day8.php on line 23
+[11-Nov-2017 01:54:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/a21csabs/public_html/tests/day8.php on line 23
+[11-Nov-2017 01:55:47 Etc/GMT] PHP Notice:  Undefined variable: from in /home/a21csabs/public_html/tests/day8.php on line 25
+[11-Nov-2017 01:55:47 Etc/GMT] PHP Notice:  Undefined variable: from in /home/a21csabs/public_html/tests/day8.php on line 25

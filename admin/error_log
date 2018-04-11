@@ -1,0 +1,78 @@
+[02-Nov-2017 09:47:39 Etc/GMT] PHP Notice:  Undefined index: action in /home/a21csabs/public_html/admin/formactions.php on line 61
+[02-Nov-2017 09:47:44 Etc/GMT] PHP Notice:  Undefined index: action in /home/a21csabs/public_html/admin/formactions.php on line 61
+[02-Nov-2017 09:50:01 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/admin/formactions.php on line 8
+[02-Nov-2017 09:50:01 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/admin/formactions.php on line 9
+[02-Nov-2017 11:23:27 Etc/GMT] PHP Notice:  Undefined index: news_date in /home/a21csabs/public_html/admin/formactions.php on line 94
+[02-Nov-2017 11:25:22 Etc/GMT] PHP Notice:  Undefined index: news_date in /home/a21csabs/public_html/admin/formactions.php on line 94
+[02-Nov-2017 11:27:27 Etc/GMT] PHP Notice:  Undefined index: news_date in /home/a21csabs/public_html/admin/formactions.php on line 94
+[15-Nov-2017 09:52:30 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[15-Nov-2017 09:52:43 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[15-Nov-2017 09:53:51 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[15-Nov-2017 09:54:21 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[15-Nov-2017 10:19:49 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[15-Nov-2017 10:20:10 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[16-Nov-2017 08:25:55 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[16-Nov-2017 08:35:16 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[16-Nov-2017 08:35:47 Etc/GMT] PHP Fatal error:  Call to undefined function updatecareer() in /home/a21csabs/public_html/admin/formactions.php on line 160
+[11-Apr-2018 08:31:27 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:27 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:33 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:33 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:35 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:35 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:37 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:37 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:38 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:38 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:39 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:39 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:41 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:31:41 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:36:52 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:36:52 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:42:14 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:42:14 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:42:15 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:42:15 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:15 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:15 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:17 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:17 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:23 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:23 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:24 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:49:24 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:57:08 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:57:08 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:57:10 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:57:10 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:59:41 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:59:41 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:59:45 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 08:59:45 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:09 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:09 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:11 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:11 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:13 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:13 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:14 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:14 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:16 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:16 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:17 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:17 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:18 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:18 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:57 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:57 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:58 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:58 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:59 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:01:59 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:02:01 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:02:01 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:02:02 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:02:02 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:03:28 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/a21csabs/public_html/admin/contacts.php on line 62
+[11-Apr-2018 09:03:28 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/a21csabs/public_html/admin/contacts.php on line 62
