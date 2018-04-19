@@ -104,7 +104,7 @@ $page="gallery";
 
 .close {
 
-  color:white;
+  color:blue;
 
   position: absolute;
 
