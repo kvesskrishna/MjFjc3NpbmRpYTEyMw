@@ -52,5 +52,14 @@
 
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.js"></script>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async
+src="https://www.googletagmanager.com/gtag/js?id=UA-117674390-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-117674390-1');
+</script>
 	</head>
