@@ -178,27 +178,27 @@ img.hover-shadow {
 
             
             <div class="gallery_product col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <img src="img/gallery/CII1.jpeg" style="width:380px; height:250px;" " onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+                <img src="img/gallery/CII1.jpeg" style="width:380px; height:250px;" " onclick="openModal();currentSlide(2)" class="hover-shadow cursor" alt="">
             </div>
 
             <div class="gallery_product col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <img src="img/gallery/CII2.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                <img src="img/gallery/CII2.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" alt="">
             </div>
 
             <div class="gallery_product col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <img src="img/gallery/CII3.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+                <img src="img/gallery/CII3.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" alt="">
             </div>
 
             <div class="gallery_product col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <img src="img/gallery/CII5.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+                <img src="img/gallery/CII5.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" alt="">
             </div>
 
             <div class="gallery_product col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <img src="img/gallery/CII6.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+                <img src="img/gallery/CII6.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" alt="">
             </div>
 
             <div class="gallery_product col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <img src="img/gallery/CII-Cover.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+                <img src="img/gallery/CII-Cover.jpeg" style="width:380px; height:250px;" onclick="openModal();currentSlide(6)" class="hover-shadow cursor" alt="">
             </div>
         </div>
         <div class="row">
@@ -215,33 +215,33 @@ img.hover-shadow {
 
     <div class="mySlides">
       <div class="numbertext">1 / 6</div>
-      <img src="img/gallery/CII1.jpeg" style="width:100%">
+      <img src="img/gallery/CII1.jpeg" style="width:100%" alt="">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">2 / 6</div>
-      <img src="img/gallery/CII2.jpeg" style="width:100%">
+      <img src="img/gallery/CII2.jpeg" style="width:100%" alt="">
     </div>
 
 
     <div class="mySlides">
       <div class="numbertext">3 / 6</div>
-      <img src="img/gallery/CII3.jpeg" style="width:100%">
+      <img src="img/gallery/CII3.jpeg" style="width:100%" alt="">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">4 / 6</div>
-      <img src="img/gallery/CII5.jpeg" style="width:100%">
+      <img src="img/gallery/CII5.jpeg" style="width:100%" alt="">
     </div>
 
      <div class="mySlides">
       <div class="numbertext">5 / 6</div>
-      <img src="img/gallery/CII6.jpeg" style="width:100%">
+      <img src="img/gallery/CII6.jpeg" style="width:100%" alt="">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">6 / 6</div>
-      <img src="img/gallery/CII-Cover.jpeg" style="width:100%">
+      <img src="img/gallery/CII-Cover.jpeg" style="width:100%" alt="">
     </div>
     
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -251,24 +251,24 @@ img.hover-shadow {
       <p id="caption"></p>
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/gallery/CII1.jpeg" style="width:100%" onclick="currentSlide(1)">
+      <img class="demo cursor" src="img/gallery/CII1.jpeg" style="width:100%" onclick="currentSlide(1)" alt="">
     </div>
 
     <div class="column">
-      <img class="demo cursor" src="img/gallery/CII2.jpeg" style="width:100%" onclick="currentSlide(2)">
+      <img class="demo cursor" src="img/gallery/CII2.jpeg" style="width:100%" onclick="currentSlide(2)" alt="">
     </div>
     
     <div class="column">
-      <img class="demo cursor" src="img/gallery/CII3.jpeg" style="width:100%" onclick="currentSlide(3)">
+      <img class="demo cursor" src="img/gallery/CII3.jpeg" style="width:100%" onclick="currentSlide(3)" alt="">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/gallery/CII5.jpeg" style="width:100%" onclick="currentSlide(4)">
+      <img class="demo cursor" src="img/gallery/CII5.jpeg" style="width:100%" onclick="currentSlide(4)" alt="">
     </div>
      <div class="column">
-      <img class="demo cursor" src="img/gallery/CII6.jpeg" style="width:100%" onclick="currentSlide(5)">
+      <img class="demo cursor" src="img/gallery/CII6.jpeg" style="width:100%" onclick="currentSlide(5)" alt="">
     </div>
      <div class="column">
-      <img class="demo cursor" src="img/gallery/CII-Cover.jpeg" style="width:100%" onclick="currentSlide()">
+      <img class="demo cursor" src="img/gallery/CII-Cover.jpeg" style="width:100%" onclick="currentSlide()" alt="">
     </div>
   </div>
 </div>
