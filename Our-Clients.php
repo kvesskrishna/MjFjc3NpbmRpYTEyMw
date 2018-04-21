@@ -130,7 +130,7 @@ $page="careers";
 </li>
 <li class="col-sm-4 col-md-3">
 <a href="javascript:void(0);">
-<img src="img/clients/con_logo.jpg" alt="">
+<img src="img/clients/con_logo.png" alt="">
 </a>
 </li>
 <li class="col-sm-4 col-md-3">
@@ -148,6 +148,12 @@ $page="careers";
 <img src="img/clients/datapioneer.jpg" alt="">
 </a>
 </li>
+<li class="col-sm-4 col-md-3">
+<a href="javascript:void(0);">
+<img src="img/clients/dotstechnologies.jpg" alt="">
+</a>
+</li>
+
 <li class="col-sm-4 col-md-3">
 <a href="javascript:void(0);">
 <img src="img/clients/ecloud-labs.jpg" alt="">
