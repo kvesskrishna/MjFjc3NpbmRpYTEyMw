@@ -14,7 +14,7 @@
 		<meta name="author" content="21st Century Software Solutions ">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+		<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" alt="21st Century Software Solutions Portfolio image"/>
 		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
 		<!-- Mobile Metas -->
