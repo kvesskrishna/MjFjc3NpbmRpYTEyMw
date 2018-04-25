@@ -4,7 +4,7 @@
 						<ul>
 							<li data-transition="fade">
 								<img src="img/slides/landing-page-slide-1.jpg"  
-									alt=""
+									alt="21st Century Software Solutions Landing Page Slider  | 21cssindia"
 									data-bgposition="center center" 
 									data-bgfit="cover" 
 									data-bgrepeat="no-repeat" 
@@ -15,7 +15,7 @@
 									data-y="center" data-voffset="-95"
 									data-start="1000"
 									style="z-index: 5"
-									data-transform_in="x:[-300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+									data-transform_in="x:[-300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt="21cssindia slide title border"></div>
 
 								<div class="tp-caption top-label"
 									data-x="center" data-hoffset="0"
@@ -29,7 +29,7 @@
 									data-y="center" data-voffset="-95"
 									data-start="1000"
 									style="z-index: 5"
-									data-transform_in="x:[300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+									data-transform_in="x:[300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt="21cssindia slide title border"></div>
 
 								<div class="tp-caption main-label"
 									data-x="center" data-hoffset="0"
@@ -63,7 +63,7 @@
 							</li>
 							<li data-transition="fade">
 								<img src="img/slides/landing-page-slide-2.jpg"  
-									alt=""
+									alt="21st Century Software Solutions Landing Page Slider  | 21cssindia"
 									data-bgposition="center center" 
 									data-bgfit="cover" 
 									data-bgrepeat="no-repeat" 
@@ -74,7 +74,7 @@
 									data-y="center" data-voffset="-95"
 									data-start="1000"
 									style="z-index: 5"
-									data-transform_in="x:[-300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+									data-transform_in="x:[-300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt="21cssindia slide title border"></div>
 
 								<div class="tp-caption top-label"
 									data-x="center" data-hoffset="0"
@@ -88,7 +88,7 @@
 									data-y="center" data-voffset="-95"
 									data-start="1000"
 									style="z-index: 5"
-									data-transform_in="x:[300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+									data-transform_in="x:[300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt="21cssindia slide title border"></div>
 
 								<div class="tp-caption main-label"
 									data-x="center" data-hoffset="0"
