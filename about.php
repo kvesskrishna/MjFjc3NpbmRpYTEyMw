@@ -65,7 +65,7 @@ $page="about";
 							<div class="row">
 								<div class="col-md-4">
 									<div class="center" data-plugin-sticky data-plugin-options='{"minWidth": 991, "containerSelector": ".sticky-container", "padding": {"top": 110}}'>
-										<img class="pull-left img-responsive" width="300" height="211" src="img/who-we-help.jpg" alt="">
+										<img class="pull-left img-responsive" width="300" height="211" src="img/who-we-help.jpg" alt="21css services | who we help">
 										<strong>Who We Help</strong>
 									</div>
 								</div>
@@ -173,19 +173,19 @@ $page="about";
 												<ul id="featured-companies" class="row" style="list-style:none;">
 
 													<center><li class="col-sm-11 col-md-2">
-														<img src="img/clients/parents/microsoft.png" alt="">
+														<img src="img/clients/parents/microsoft.png" alt="Microsoft|21st century software solutions client">
 													</li></center>
 													<center><li class="col-sm-11 col-md-2">
-														<img src="img/clients/parents/dgr.jpg" alt="">
+														<img src="img/clients/parents/dgr.jpg" alt="dgr|21css india client">
 													</li></center>
 													<center><li class="col-sm-11 col-md-2">
-														<img src="img/clients/parents/nasscom.png" alt="">
+														<img src="img/clients/parents/nasscom.png" alt="nasscom|21css client">
 													</li></center>
 													<center><li class="col-sm-11 col-md-2">
-														<img src="img/clients/parents/CII.PNG" alt="">
+														<img src="img/clients/parents/CII.PNG" alt="CII|21css client">
 													</li></center>
 													<center><li class="col-sm-11 col-md-2">
-														<img src="img/clients/parents/iTAAP_LOGO.png" alt="">
+														<img src="img/clients/parents/iTAAP_LOGO.png" alt="ITAAP|21st century software solutions client">
 													</li></center>
 
 												</ul>
