@@ -10,7 +10,7 @@
 		<title>21st Century Software Solutions - Home</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="21st Century Software Solutions ">
+		<meta name="description" content="21st Century Software Solutions one of the best software company. Provides facilities like data Modeling, Business Management, I phone/I pad app development etc">
 		<meta name="author" content="21st Century Software Solutions ">
 
 		<!-- Favicon -->
