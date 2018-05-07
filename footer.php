@@ -29,10 +29,10 @@
 								<p>
 									<a href="blockchain">Blockchain</a>
 									<br><a href="bigdata">Big Data</a>
-									<br><a href="#">Data Modeling</a>
-									<br><a href="#">Custom Web Application Development</a>
-									<br><a href="#">Ecommerce</a>
-									<br><a href="#">Business Management</a>
+									<br><a href="datamodeling">Data Modeling</a>
+									<br><a href="http://www.21cssindia.com/service?name=custom-application-development">Custom Web Application Development</a>
+									<br><a href="http://www.21cssindia.com/service?name=ecommerce">Ecommerce</a>
+									<br><a href="#" style="display: none;">Business Management</a>
 
 
 
