@@ -42,9 +42,9 @@
 											<i class="fa fa-bars"></i>
 										</button>
 										<ul class="header-social-icons social-icons hidden-xs">
-											<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-											<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+											<li class="social-icons-facebook"><a href="https://www.facebook.com/profile.php?id=100008787512645" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+											<li class="social-icons-twitter"><a href="https://twitter.com/cssindia1" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+											<li class="social-icons-linkedin"><a href="https://www.linkedin.com/in/css-india-46895764/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
 										</ul>
 										<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 											<nav>
