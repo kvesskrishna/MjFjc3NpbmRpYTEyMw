@@ -68,7 +68,7 @@
 														</ul>
 													</li>
 													<li class="dropdown dropdown-mega <?php if($page=="services") echo 'active';?>">
-														<a class="dropdown-toggle" href="#">
+														<a class="dropdown-toggle" href="Our-Services">
 															Products &amp; Services
 														</a>
 				<ul class="dropdown-menu">
