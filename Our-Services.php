@@ -60,7 +60,7 @@ $page="Our-Services";
                   <div class="box-content">
                     <i class="icon-featured fa fa-mobile"></i>
                     <h4 class="text-uppercase">App Development</h4>
-                    <p>We have the right team to Develop Apps on both Platforms <br> <a href="#">Android</a> | <a href="#">IOS</a></p>
+                    <p>We have the right team to Develop Apps on both Platforms <br> <a href="http://www.21cssindia.com/service?name=android">Android</a> | <a href="http://www.21cssindia.com/service?name=ios">IOS</a></p>
                   </div>
                 </div>
               </div>
