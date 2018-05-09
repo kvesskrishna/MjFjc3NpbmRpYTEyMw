@@ -42,7 +42,7 @@ $page="Our-Services";
                   <div class="box-content">
                     <i class="icon-featured fa fa-database"></i>
                     <h4 class="text-uppercase">Data Services</h4>
-                    <p>We Provide Data Services like<br><a href="#">Big Data</a> | <a href="#">Data Modeling</a> | <a   href="#">Data Discovery</a> | <a href="#">Data Quality</a> | <a href="#">Data Integration</a> | <a href="#">Data Governance</a></p>
+                    <p>We Provide Data Services like<br><a href="http://www.21cssindia.com/service?name=big-data">Big Data</a> | <a href="http://www.21cssindia.com/service?name=data-modeling">Data Modeling</a> | <a   href="http://www.21cssindia.com/service?name=data-discovery">Data Discovery</a> | <a href="http://www.21cssindia.com/service?name=data-quality">Data Quality</a> | <a href="http://www.21cssindia.com/service?name=data-interagtion">Data Integration</a> | <a href="http://www.21cssindia.com/service?name=data-governance">Data Governance</a></p>
                   </div>
                 </div>
               </div>
@@ -51,7 +51,7 @@ $page="Our-Services";
                   <div class="box-content">
                     <i class="icon-featured fa fa-html5"></i>
                     <h4 class="text-uppercase">Web Development</h4>
-                    <p>Web Development solutions<br> <a href="#">Custom Application</a> | <a href="#">CRM</a> | <a href="#">CMS</a> | <a href="#">eCommerce</a> | <a href="#">Banking</a> | <a href="#">Manufacturing</a> | <a href="#">Retail</a> | <a href="#">Travel & Hospitality</a></p>
+                    <p>Web Development solutions<br> <a href="http://www.21cssindia.com/service?name=custom-application-development">Custom Application</a> | <a href="http://www.21cssindia.com/service?name=customer-relationship-management">CRM</a> | <a href="http://www.21cssindia.com/service?name=content-management-system">CMS</a> | <a href="http://www.21cssindia.com/service?name=ecommerce">eCommerce</a> | <a href="http://www.21cssindia.com/service?name=banking">Banking</a> | <a href="http://www.21cssindia.com/service?name=manufacturing">Manufacturing</a> | <a href="http://www.21cssindia.com/service?name=retail">Retail</a> | <a href="http://www.21cssindia.com/service?name=travel-and-hospitality">Travel & Hospitality</a></p>
                   </div>
                 </div>
               </div>
