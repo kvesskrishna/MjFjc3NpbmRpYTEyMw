@@ -74,7 +74,7 @@
 								</a>
 							</div>
 							<div class="col-md-7">
-								<p>© Copyright 2017. All Rights Reserved.</p>
+								<p>© Copyright 2018. All Rights Reserved.</p>
 							</div>
 							<div class="col-md-4">
 								<nav id="sub-menu">
