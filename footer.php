@@ -80,7 +80,7 @@
 								<nav id="sub-menu">
 									<ul>
 										<li><a href="FAQ">FAQ's</a></li>
-										<li><a href="#">Sitemap</a></li>
+										<li><a href="#" style="display: none">Sitemap</a></li>
 										<li><a href="http://www.21cssindia.com/contact">Contact</a></li>
 									</ul>
 								</nav>
