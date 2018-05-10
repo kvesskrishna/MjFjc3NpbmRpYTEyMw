@@ -69,7 +69,7 @@ $page="Our-Services";
                   <div class="box-content">
                     <i class="icon-featured fa fa-users"></i>
                     <h4 class="text-uppercase">RPO</h4>
-                    <p>21st Century Software Solutions providing <a href="#">Recruiting Process Outsourcing</a> services worldwide</p>
+                    <p>21st Century Software Solutions providing <a href="RPO">Recruiting Process Outsourcing</a> services worldwide</p>
                   </div>
                 </div>
               </div>
