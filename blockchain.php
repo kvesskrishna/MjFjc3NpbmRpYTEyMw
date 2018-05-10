@@ -193,7 +193,7 @@ $page="blockchain";
 										<i class="icon-featured fa fa-hourglass"></i>
 										<h4 class="text-uppercase">Strategy Assesment</h4>
 										<p>Blockchain pertinence, business affect and deployment strategy assessment</p>
-										<p><a href="/" class="lnk-secondary learn-more">Learn More <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="/" class="lnk-secondary learn-more" style="display: none;">Learn More <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -203,7 +203,7 @@ $page="blockchain";
 										<i class="icon-featured fa fa-try"></i>
 										<h4 class="text-uppercase">Blockchain bootcamps</h4>
 										<p>Technology leadership workshops for active, boosted training and rapid prototyping.</p>
-										<p><a href="/" class="lnk-secondary learn-more">Learn more <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="/" class="lnk-secondary learn-more" style="display: none;">Learn more <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -213,7 +213,7 @@ $page="blockchain";
 										<i class="icon-featured fa fa-th-large"></i>
 										<h4 class="text-uppercase">Blockchain sandboxes</h4>
 										<p>Speeder development environments featuring a collection of blockchain tools, customized Proofs of Concept and Proof of Value</p>
-										<p><a href="/" class="lnk-secondary learn-more">Learn more <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="/" class="lnk-secondary learn-more" style="display: none;">Learn more <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -223,7 +223,7 @@ $page="blockchain";
 										<i class="icon-featured fa fa-lightbulb-o"></i>
 										<h4 class="text-uppercase">Blockchain Solution Design</h4>
 										<p>Complete solution design that covers people, process, operating model and technology</p>
-										<p><a href="/" class="lnk-secondary learn-more">Learn more <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="/" class="lnk-secondary learn-more" style="display: none;">Learn more <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -233,7 +233,7 @@ $page="blockchain";
 										<i class="icon-featured fa fa-code-fork"></i>
 										<h4 class="text-uppercase">Solution build &amp; Implementation</h4>
 										<p>Composite execution management, third party vendor integration and custom coding</p>
-										<p><a href="/" class="lnk-secondary learn-more">Learn more <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="/" class="lnk-secondary learn-more" style="display: none;">Learn more <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -243,7 +243,7 @@ $page="blockchain";
 										<i class="icon-featured fa fa-cubes"></i>
 										<h4 class="text-uppercase">Blockchain assets &amp; Solutions</h4>
 										<p>Protected, customized software add-ons, such as redaction and key management, including hardened security modules</p>
-										<p><a href="/" class="lnk-secondary learn-more">Learn more <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="/" class="lnk-secondary learn-more" style="display: none;">Learn more <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
