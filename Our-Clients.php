@@ -87,7 +87,6 @@ $page="careers";
 <img src="img/clients/alliance.jpg" alt="">
 </a>
 </li>
-
 <li class="col-sm-4 col-md-3">
 <a href="javascript:void(0);">
 <img src="img/clients/arete.jpg" alt="">
@@ -434,6 +433,11 @@ $page="careers";
 <li class="col-sm-4 col-md-3">
 <a href="javascript:void(0);">
 <img src="img/clients/vision2.jpg" alt="">
+</a>
+</li>
+<li class="col-sm-4 col-md-3">
+<a href="javascript:void(0);">
+<img src="img/clients/zion-logo-final-sml.png" alt="">
 </a>
 </li>
 <li class="col-sm-4 col-md-3">
